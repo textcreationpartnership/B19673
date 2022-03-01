@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for prohibiting the importation of commodities of Europe into any of His Majesties plantations in Africa, Asia, or America, which were not laden in England, and for putting all other laws relating to the trade of the plantations, in effectual execution.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19673</idno>
+            <idno type="OCLC"> 8936496</idno>
+            <idno type="STC">Wing C3378</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[117]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[116]</idno>
+            <idno type="STC">ESTC R25339</idno>
+            <idno type="EEBO-CITATION">99889290</idno>
+            <idno type="PROQUEST">ocm99889290</idno>
+            <idno type="VID">190060</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B19673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190060)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[117]; C18:2[116])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for prohibiting the importation of commodities of Europe into any of His Majesties plantations in Africa, Asia, or America, which were not laden in England, and for putting all other laws relating to the trade of the plantations, in effectual execution.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Given at our court at Whitehall the twenty fourth day of November, in the seven and twentieth year of Our reign.</note>
+                  <note>Steele notation: Arms 87  An Africa 2) in respective.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulation --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Commercial policy --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:190060:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <p>HONI · SOIT · QVI · MAL · Y · PENSE</p>
+                  <p>DIEV · ET · MON DROIT</p>
+               </figure> By the King. A PROCLAMATION For Prohibiting the Importation of Commodities of <hi>Europe</hi> into any of His Majeſties Plantations in <hi>Africa, Aſia,</hi> or <hi>America,</hi> which were not laden in <hi>England,</hi> and for putting all other Laws relating to the Trade of the Plantations, in effectual Execution.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by one Act of Parliament made in the Fifteenth Year of His Majeſties Reign, Entituled, <hi>(An Act for the Encouragement of Trade)</hi> it is Enacted, That from and after the Twenty fifth day of <hi>March 1664,</hi> no Commodities of the growth, production or manufacture of <hi>Europe,</hi> ſhall be Impor<g ref="char:EOLhyphen"/>ted into any Land, Iſland, Plantation, Colony, Territory or Place to His Majeſty belonging, or which ſhall belong unto, or be in the poſſeſſion of His Majeſty, His Heirs or Succeſſors, in <hi>Aſia, Africa,</hi> or <hi>America, (Tanger</hi> onely excepted) but what ſhall be <hi>bona fide,</hi> and without fraud Laden and Shipped in <hi>England, Wales,</hi> or the Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> and which ſhall be carried directly thence to the ſaid Lands, Iſlands, Plantations, Colonies, Territories and Places, and from no other place whatſoever, any Law, Statute, or Vſage to the contrary notwithſtanding, under the Penalty of the Loſs of all ſuch Com<g ref="char:EOLhyphen"/>modities of the Growth, Production or Manufacture of <hi>Europe,</hi> as ſhall be Imported into any of them, from any other place whatſoever, by Land, or by Water; and if by Water, of the Ship or Veſſel alſo in which they were Imported, with all her Guns, Tackle, Furniture, Ammunition and Apparel; the ſaid forfeitures to be diſpo<g ref="char:EOLhyphen"/>ſed as by the ſaid Act is directed: Provided, that it ſhall be lawful to Ship and Lade in ſuch Ships, and ſo Navi<g ref="char:EOLhyphen"/>gated, as in the ſaid Act is expreſſed, in any part of <hi>Europe,</hi> Salt for the Fiſheries of <hi>New England</hi> and <hi>New-found-land;</hi> and to ſhip and lade in the <hi>Maderas,</hi> Wines of the growth thereof; and ſhip and lade in the Weſtern Iſlands, or <hi>Azores,</hi> Wines of the growth of the ſaid Iſlands; and to ſhip and take in Servants or Horſes in <hi>Scotland</hi> or <hi>Ireland;</hi> and to ſhip or lade in <hi>Scotland,</hi> all ſorts of Victual of the growth or production of <hi>Scotland;</hi> and to ſhip or lade in <hi>Ireland,</hi> all ſorts of Victual of the growth or production of <hi>Ireland,</hi> and the ſame to tranſport into any of the ſaid Lands, Iſlands, Plantations, Colonies, Territories, or Places; Any thing in the foregoing Clauſe to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding. And whereas His Majeſty is well informed, that notwithſtanding the ſaid Act of Parliament, great quantities of other Commodities of the growth, production and manufacture of <hi>Europe,</hi> (then what are by the ſaid Act permitted) have been, and are daily Imported into ſeveral of His Colonies, Plantations, and Territories, in <hi>Aſia, Africa</hi> and <hi>America,</hi> (beſides <hi>Tanger;</hi>) and that His Majeſties Subjects of ſome of His Colonies, and Plantati<g ref="char:EOLhyphen"/>ons, have not onely ſupplied themſelves with ſuch Commodities not Shipped in <hi>England, Wales</hi> or <hi>Berwick,</hi> but have conveyed them by Land and Water, to other of His Majeſties Colonies and Plantations, to the great prejudice of His Majeſties Cuſtoms, and of the Trade and Navigation of this Kingdom: His Majeſty therefore for the prevention thereof for the future, doth by this His Royal Proclamation, (with the Advice of His Privy Council) Require and Com<g ref="char:EOLhyphen"/>mand all and every His Subjects, that they do not for the future preſume to Import any Commodities of the growth, production, or manufacture of <hi>Europe,</hi> (except what may be Imported by vertue of the Proviſo aforeſaid) by Land, or Water, into any Land, Iſland, Plantation, Colony, Territory or Place to His Majeſty belonging, or which hereafter ſhall belong unto, or be in the poſſeſſion of His Majeſty, His Heirs and Succeſſors, (<hi>Tanger</hi> onely excepted) but which ſhall be <hi>bona fide,</hi> and without fraud laden and Shipped in <hi>England, Wales,</hi> or the Town of <hi>Berwick,</hi> and carried directly from thence, according to the true meaning of the ſaid Act; whereof all perſons concerned are to take notice, and yield due obedience thereunto. And His Majeſty doth further ſtrictly direct and require all Gover<g ref="char:EOLhyphen"/>nours of His Colonies, and Plantations, and of all Lands, Iſlands, and Places in His poſſeſſion in <hi>Aſia, Africa,</hi> and <hi>America, (Tanger</hi> onely excepted) to take care that this His Royal Proclamation be put in due execution: And alſo that one Act made in the Twelfth year of His Majeſties Reign, Entituled, <hi>An Act for the Encouraging and Increaſe of Ship<g ref="char:EOLhyphen"/>ping and Navigation,</hi>) and one Act made in the Two and twentieth and Three and twentieth years of His Reign, En<g ref="char:EOLhyphen"/>tituled, <hi>(An Act for the Regulating the Plantation Trade,)</hi> and alſo one other Act made in the Five and twentieth year of His Majeſties Reign, Entituled, <hi>(An Act for the better Securing the Plantation Trade)</hi> together with all other the Laws of this His Kingdom of <hi>England,</hi> relating to the Trade of His Plantations, be duely obſerved and put in execu<g ref="char:EOLhyphen"/>tion in their reſpective Governments: And His Majeſty doth further require all His ſaid Governours, and that they Command all Officers, Civil and Military under their reſpective Commands, to be aiding and aſſiſting therein, and to the Collectors and other Officers of His Majeſties Cuſtoms under them, in the Execution of their reſpective Offices in order thereunto, as they and every of them will anſwer the contrary at their utmoſt perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Whitehall</hi>
+                  </hi>
+                  <date>
+                     <hi>the Twenty fourth day of <hi>November,</hi> In the Seven and twentieth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty. 1675.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
